@@ -1,5 +1,5 @@
 {
-  "name": "breaking-bad-react",
+  "name": "breaking-bad-cards",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
